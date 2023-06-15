@@ -1,5 +1,5 @@
 <p align="left"> 
- Hello my name is Yan Pedro i am <strong>Front-end Developer</strong>.<br>
+ Hello my name is Brenner Paiva i am <strong>Front-end Developer</strong>.<br>
  I am currently studying and looking for experience.
 </p>
 
