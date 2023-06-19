@@ -1,6 +1,6 @@
 <p align="left"> 
- Hello my name is Brenner Paiva, i am <strong>Front-end Developer</strong>.<br>
- I am currently studying and looking for experience.
+ Olá, me chamo Brenner Paiva, sou <strong>desenvolvedor Front-end </strong>.<br>
+ I am currently studying and looking for experience
 </p>
 
 <p align="left">
