@@ -3,11 +3,11 @@
 </p>
 
 <p align="left">
-  ⌨️ Hard Skills: <strong>React.Js, JavaScript, Html, Css, SASS, Bootstrap, Firebase.</strong>
+  ⌨️ Hard Skills: <strong>React.Js, JavaScript, HTML, CSS, SASS, Bootstrap, Firebase.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, figma, git, github</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Figma, Git, Github</strong>
 </p>
 
 <p align="left">
