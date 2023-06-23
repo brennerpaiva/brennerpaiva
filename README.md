@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Figma, Git, Github</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Git, Github</strong>
 </p>
 
 <p align="left">
