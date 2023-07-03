@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  📧 Deseja entrar em contato comigo?: ⤵️
+  📧 Deseja entrar em contato comigo?
 </p>
 
 brenneraugusto.p@gmail.com
