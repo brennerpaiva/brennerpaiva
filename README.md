@@ -1,5 +1,5 @@
 <p align="left"> 
- Olá, me chamo Brenner Paiva e sou <strong>desenvolvedor Front-end</strong>.<br>
+ Oi, me chamo Brenner!<br>
 </p>
 
 <p align="left">
@@ -9,12 +9,6 @@
 <p align="left">
   💼 Ferramentas: <strong>Visual Studio Code, Git, Github</strong>
 </p>
-
-<p align="left">
-  📧 Deseja entrar em contato comigo?
-</p>
-
-brenneraugusto.p@gmail.com
 
 
 <div align="center">
