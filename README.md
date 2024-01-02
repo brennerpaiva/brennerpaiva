@@ -1,15 +1,6 @@
 <p align="left"> 
- Oi, me chamo Brenner!<br>
+ Hello World!
 </p>
-
-<p align="left">
-  ⌨️ Hard Skills: <strong>React.Js, Typescript, JavaScript, HTML, CSS, SASS, Bootstrap, Firebase.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Figma, Git, Github</strong>
-</p>
-
 
 <div align="center">
 <div style="display: inline_block"><br>
