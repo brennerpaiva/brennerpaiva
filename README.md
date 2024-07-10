@@ -26,8 +26,8 @@
  </div>
  <hr/>
 
- <div style="display: flex; justify-content: center; gap: 20px;">
-   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=brennerpaiva&theme=vue-dark&hide_border=true" />
-   <img height="177em" src="https://streak-stats.demolab.com/?user=BrennerPaiva&show_icons=true&count_private=true&title_color=ffffff&theme=vue-dark&hide_border=true" />
+ <div style="display: flex">
+   <img height="160em"src="https://github-readme-stats.vercel.app/api?username=brennerpaiva&theme=vue-dark&hide_border=true" />
+   <img height="160em" src="https://streak-stats.demolab.com/?user=BrennerPaiva&show_icons=true&count_private=true&title_color=ffffff&theme=vue-dark&hide_border=true" />
  </div>
 </div>
