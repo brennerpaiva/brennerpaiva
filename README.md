@@ -2,7 +2,7 @@
  Hello World!
 </h1>
 
-<p>Olá, me chamo Brenner e atualmente trabalho como desenvolvedor front-end na Aterra Ambiental!</p>
+<p>Olá, me chamo Brenner e atualmente trabalho como desenvolvedor front-end na Vox Tecnologia</p>
 <hr/>
 
 <div align="center">
